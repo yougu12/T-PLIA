@@ -43,9 +43,9 @@
             padding: 20px;
             background-color: white;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
             position: relative;
-            height: 200px; /* Set a fixed height for the content box */
+            height: 300px; /* Set a fixed height for the content box */
         }
         .left img {
             position: absolute;
@@ -56,18 +56,18 @@
             margin-bottom: 20px;
         }
         .left h2 {
-            margin-top: 80px; /* Adjusted margin to accommodate image */
+            margin-top: 60px; /* Adjusted margin to accommodate image */
             margin-left: 150px; /* Adjusted to align text with image */
-            font-size: 30px;
+            font-size: 10px;
         }
         .right {
             flex: 30%;
             padding: 20px;
             background-color: #f4f4f4;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
             margin-left: 20px;
-            height: 200px; /* Match height with the left box */
+            height: 300px; /* Match height with the left box */
         }
         .right h3 {
             margin-top: 0;
@@ -82,7 +82,7 @@
             padding: 10px;
             margin-bottom: 10px;
             border-radius: 8px;
-            font-size: 16px;
+            font-size: 10px;
         }
         footer {
             text-align: center;
@@ -147,7 +147,7 @@
         <p><strong>악성코드 탐지 모델 개발자:</strong><br>
         조성환(부장), 김세희, 서재환, 이준우, 정가은, 한승환</p>
         <p><strong>웹사이트 제작자:</strong><br>
-        박영우(차장(강제)),조예원 (차장(이었던 중퇴자)), 김민서</p>
+        박영우(차장(강제)), 조예원 (차장(이었던 중퇴자)), 김민서</p>
     </div>
 </footer>
 
