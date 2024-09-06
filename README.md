@@ -57,7 +57,7 @@
         .left h2 {
             margin-top: 80px; /* Adjusted margin to accommodate image */
             margin-left: 150px; /* Adjusted to align text with image */
-            font-size: 16px;
+            font-size: 20px;
         }
         .right {
             flex: 30%;
@@ -128,6 +128,8 @@
     <div class="left">
         <img src="main-image.jpg" alt="모델 이미지">
         <h2>모델에 대한 간략적인 소개글</h2>
+    <div class="모델 이미지">
+        <img src="images/이준우.png" alt="모델 이미지">
     </div>
     <div class="right">
         <h3>목차</h3>
