@@ -113,7 +113,7 @@
         <h1>악성코드 탐지 모델</h1>
     </div>
     <nav>
-        <a href="#contact">문의</a>
+        <a href="#contact">문의 -> T-PLIA 부장</a>
     </nav>
 </header>
 
