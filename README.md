@@ -140,7 +140,7 @@
 </div>
 
 <footer>
-    <a href="#" class="download-button">다운로드 / 사용</a>
+    <a href="#" class="download-button">사용</a>
     <div class="credits">
         <h3>제작자</h3>
         <p><strong>악성코드 탐지 모델 개발자:</strong><br>
