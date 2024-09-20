@@ -140,7 +140,7 @@
 </div>
 
 <footer>
-    <a href="https://colab.research.google.com/drive/1xT56BenLauIlcm2j7yoKWoQhf4uCGY4m?usp=sharing" class="download-button">다운로드 / 사용</a>
+    <a href="https://colab.research.google.com/drive/1xT56BenLauIlcm2j7yoKWoQhf4uCGY4m?usp=sharing" class="download-button">사용</a>
 
     <div class="credits">
         <h3>제작자</h3>
