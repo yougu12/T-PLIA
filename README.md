@@ -46,18 +46,11 @@
             position: relative;
             height: 300px; /* Set a fixed height for the content box */
         }
-        .left img {
-            position: absolute;
-            top: 10px;
-            left: 120px;
-            width: 100px; /* Set a fixed width for the image */
-            height: 50px; /* Set a fixed height for the image */
-            margin-bottom: 20px;
         }
         .left h2 {
             margin-top: 80px; /* Adjusted margin to accommodate image */
             margin-left: 150px; /* Adjusted to align text with image */
-            font-size: 20px;
+            font-size: 30px;
         }
         .right {
             flex: 30%;
