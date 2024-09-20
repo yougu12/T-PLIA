@@ -119,7 +119,6 @@
 
 <div class="main-content">
     <div class="left">
-        <img src="main-image.jpg" alt="모델 이미지">
         <h2>모델에 대한 간략적인 소개글</h2>
     </div>
     <div class="right">
@@ -134,7 +133,6 @@
 
 <footer>
     <a href="https://colab.research.google.com/drive/1xT56BenLauIlcm2j7yoKWoQhf4uCGY4m?usp=sharing" class="download-button">사용</a>
-
     <div class="credits">
         <h3>제작자</h3>
         <p><strong>악성코드 탐지 모델 개발자:</strong><br>
