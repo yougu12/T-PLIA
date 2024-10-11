@@ -134,7 +134,21 @@
 <footer>
     <a href="https://colab.research.google.com/drive/1xT56BenLauIlcm2j7yoKWoQhf4uCGY4m?usp=sharing" class="download-button">사용</a>
     <div class="credits">
-        <h3>제작자</h3>
+        <h3>1. 사용법</h3>
+        <p><strong>1번 설명</strong><br>
+        방법 설명</p>
+	<div class="logo">
+        <img src=>
+        <p><strong>2번 설명</strong><br>
+        방법 설명</p>
+
+        <h3>2. 주요 기능</h3>
+        <p><strong>1번 기능</strong><br>
+        기능 설명</p>
+        <p><strong>2번 기능</strong><br>
+        기능 설명</p>
+
+        <h3>3. 제작자</h3>
         <p><strong>악성코드 탐지 모델 개발자:</strong><br>
         김세희, 서재환, 이준우, 정가은, 조성환, 한승환</p>
         <p><strong>웹사이트 제작자:</strong><br>
