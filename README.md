@@ -154,4 +154,8 @@
         <p><strong>웹사이트 제작자:</strong><br>
         김민서, 박영우, 조예원</p>
     </div>
+</footer>
+
+</body>
+</html>
 
