@@ -84,6 +84,9 @@
             margin-top: 20px;
             box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1); /* Add shadow on top of footer */
         }
+        footer img {
+            height: 90px; /* Adjusted the logo size */
+	}
         .download-button {
             display: inline-block;
             background-color: #007BFF;
@@ -158,4 +161,3 @@
 
 </body>
 </html>
-
