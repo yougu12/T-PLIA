@@ -137,7 +137,6 @@
         <h3>1. 사용법</h3>
         <p><strong>1번 설명</strong><br>
         방법 설명</p>
-	<div class="logo">
         <img src="">
         <p><strong>2번 설명</strong><br>
         <img src="">
