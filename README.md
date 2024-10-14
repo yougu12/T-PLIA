@@ -138,9 +138,10 @@
         <p><strong>1번 설명</strong><br>
         방법 설명</p>
 	<div class="logo">
-        <img src=>
+        <img src="">
         <p><strong>2번 설명</strong><br>
-        방법 설명</p>
+        <img src="">
+	방법 설명</p>
 
         <h3>2. 주요 기능</h3>
         <p><strong>1번 기능</strong><br>
@@ -154,7 +155,4 @@
         <p><strong>웹사이트 제작자:</strong><br>
         김민서, 박영우, 조예원</p>
     </div>
-</footer>
 
-</body>
-</html>
