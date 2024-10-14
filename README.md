@@ -84,6 +84,9 @@
             margin-top: 20px;
             box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1); /* Add shadow on top of footer */
         }
+        footer img {
+            height: 90px; /* Adjusted the logo size */
+	}
         .download-button {
             display: inline-block;
             background-color: #007BFF;
@@ -139,15 +142,17 @@
         방법 설명</p>
         <img src="">
         <p><strong>2번 설명</strong><br>
-        방법 설명</p>
-        <img src="">
-
+	방법 설명</p>
+	<img src="">
+    </div>
+    <div class="credits">
         <h3>2. 주요 기능</h3>
         <p><strong>1번 기능</strong><br>
         기능 설명</p>
         <p><strong>2번 기능</strong><br>
         기능 설명</p>
-
+    </div>  
+    <div class="credits">
         <h3>3. 제작자</h3>
         <p><strong>악성코드 탐지 모델 개발자:</strong><br>
         김세희, 서재환, 이준우, 정가은, 조성환, 한승환</p>
