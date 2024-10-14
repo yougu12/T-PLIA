@@ -144,7 +144,8 @@
         <p><strong>2번 설명</strong><br>
 	방법 설명</p>
 	<img src="">
-
+    </div>
+    <div class="credits">
         <h3>2. 주요 기능</h3>
         <p><strong>1번 기능</strong><br>
         기능 설명</p>
