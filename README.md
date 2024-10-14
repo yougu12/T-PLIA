@@ -139,8 +139,8 @@
         방법 설명</p>
         <img src="">
         <p><strong>2번 설명</strong><br>
-        <img src="">
 	방법 설명</p>
+	<img src="">
 
         <h3>2. 주요 기능</h3>
         <p><strong>1번 기능</strong><br>
