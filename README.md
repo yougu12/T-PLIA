@@ -84,9 +84,6 @@
             margin-top: 20px;
             box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1); /* Add shadow on top of footer */
         }
-        footer img {
-            height: 90px; /* Adjusted the logo size */
-	}
         .download-button {
             display: inline-block;
             background-color: #007BFF;
@@ -142,10 +139,9 @@
         방법 설명</p>
         <img src="">
         <p><strong>2번 설명</strong><br>
-	방법 설명</p>
-	<img src="">
-    </div>
-    <div class="credits">
+        방법 설명</p>
+        <img src="">
+
         <h3>2. 주요 기능</h3>
         <p><strong>1번 기능</strong><br>
         기능 설명</p>
